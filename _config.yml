@@ -1,2 +1,4 @@
 markdown: kramdown
 theme: minima
+# Enable or disable the site search
+search_enabled: true
